@@ -253,12 +253,14 @@ comments: []
 		In order to enlarge the screenshot, hit <kbd>Shift</kbd> + <kbd>+</kbd>, which will add 25 pixels to all four sides.
 	</p>   
 <p>	<a name="editor-adding-graphics"></a></p>
-<h3>Adding graphics to a screenshot</h3>
+<h3>Adding graphics, text and other elements to a screenshot</h3>
 <p>
 		You can simply add graphics or images to your screenshot by dragging and dropping an image<br />
 		file into the editor window. You can also insert screenshots of other windows by selecting<br />
 		<em>Insert window</em> from the <em>Edit</em> menu. A list of all open windows appears,<br />
-		allowing you to select one for insertion. Insert an image from the clipboard by <kbd>Ctrl</kbd> + <kbd>v</kbd> works as well.
+		allowing you to select one for insertion. Insert an image from the clipboard by <kbd>Ctrl</kbd> + <kbd>v</kbd> works as well, also drag & drop an image from the file explorer.<br />
+		Furthermore it is possible to directly paste plain text, a selection from an Excel table or an Office shape where the later two remain the style and all of them are still own objects to move around and resizable.
+		
 	</p>
 <p>	<a name="editor-reuse-elements"></a></p>
 <h3>Re-using drawn elements</h3>
